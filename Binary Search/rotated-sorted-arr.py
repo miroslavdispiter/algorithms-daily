@@ -35,4 +35,4 @@ def rotatedSortedArr(nums, target):
     search = binarySearch(nums, target)
     return search
 
-print(rotatedSortedArr([7,0,1,2,4,5,6], 5))
+print(rotatedSortedArr([7,0,1,2,4,5,6]))
